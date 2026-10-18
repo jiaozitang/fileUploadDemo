@@ -139,9 +139,9 @@ formidable@^1.0.15:
   version "1.1.1"
   resolved "http://registry.npm.mtime-dev.com/formidable/download/formidable-1.1.1.tgz#96b8886f7c3c3508b932d6bd70c4d3a88f35f1a9"
 
-forwarded@~0.1.2:
-  version "0.1.2"
-  resolved "http://registry.npm.mtime-dev.com/forwarded/download/forwarded-0.1.2.tgz#98c23dab1175657b8c0573e8ceccd91b0ff18c84"
+forwarded@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.2.0.tgz#2269936428aad4c15c7ebe9779a84bf0b2a81811"
 
 fresh@0.5.2:
   version "0.5.2"
@@ -176,9 +176,9 @@ inherits@2.0.3:
   version "2.0.3"
   resolved "http://registry.npm.mtime-dev.com/inherits/download/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
-ipaddr.js@1.5.2:
-  version "1.5.2"
-  resolved "http://registry.npm.mtime-dev.com/ipaddr.js/download/ipaddr.js-1.5.2.tgz#d4b505bde9946987ccf0fc58d9010ff9607e3fa0"
+ipaddr.js@1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.9.1.tgz#bff38543eeb8984825079ff3a2a8e6cbd46781b3"
 
 is-wsl@^1.1.0:
   version "1.1.0"
@@ -245,11 +245,11 @@ path-to-regexp@0.1.7:
   resolved "http://registry.npm.mtime-dev.com/path-to-regexp/download/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
 
 proxy-addr@~2.0.2:
-  version "2.0.2"
-  resolved "http://registry.npm.mtime-dev.com/proxy-addr/download/proxy-addr-2.0.2.tgz#6571504f47bb988ec8180253f85dd7e14952bdec"
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.8.tgz#624e760fd8ab06b1b8320c2f8506d4422cf8e932"
   dependencies:
-    forwarded "~0.1.2"
-    ipaddr.js "1.5.2"
+    forwarded "0.2.0"
+    ipaddr.js "1.9.1"
 
 qs@6.5.1:
   version "6.5.1"
